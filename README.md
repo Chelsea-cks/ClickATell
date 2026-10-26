@@ -127,6 +127,7 @@ Troubleshooting
   - Tests fail because of a database lock: Confirm src/test/resources/application.properties         uses an in-memory H2 URL such as jdbc:h2:mem:communityevents_testdb, then rerun the tests.
     
 AI use declaration
+
   AI assistance was used during development to help understand Spring Boot concepts, plan and troubleshoot implementation steps, review code, and draft documentation. The project was run and tested by me during development. I am responsible for reviewing the submitted source code, understanding how it works, verifying the final behaviour, and ensuring the submission follows the institution's rules for AI-assisted work.
 
 Author
